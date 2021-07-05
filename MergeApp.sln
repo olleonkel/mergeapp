@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeApp", "MergeApp\MergeApp.csproj", "{FB1D40A2-F44F-4ED7-A567-7A2531A7EDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeAppTests", "MergeAppTests\MergeAppTests.csproj", "{6200C767-E2C1-40C3-BB55-E7263B06DF40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1D40A2-F44F-4ED7-A567-7A2531A7EDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1D40A2-F44F-4ED7-A567-7A2531A7EDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1D40A2-F44F-4ED7-A567-7A2531A7EDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1D40A2-F44F-4ED7-A567-7A2531A7EDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6200C767-E2C1-40C3-BB55-E7263B06DF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6200C767-E2C1-40C3-BB55-E7263B06DF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6200C767-E2C1-40C3-BB55-E7263B06DF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6200C767-E2C1-40C3-BB55-E7263B06DF40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
