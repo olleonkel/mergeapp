@@ -1,3 +1,8 @@
+## app description
+
+The app retrieves a list of intervals in json format and returns a / a list of non-overlapping and merged overlapping intervals.
+
+
 ## installation instructions
 
 ### option: run with <code>dotnet</code> cli
